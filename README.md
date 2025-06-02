@@ -8,9 +8,7 @@ This is a React.js App for Recipes using MealDB API link.
 - Share through social media
 - Easy to use
 
-## 🖼️ Screenshots (Optional)
 
-![Screenshot](link-to-image)
 
 ## 🛠️ Tech Stack
 
